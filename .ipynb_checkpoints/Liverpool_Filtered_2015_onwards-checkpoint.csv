@@ -1,0 +1,82 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Venue,Result,CovidPeriod
+E0,2015-01-17,Aston Villa,Liverpool,0,2,A,2014-15,Away,Win,Pre-COVID
+E0,2015-01-31,Liverpool,West Ham,2,0,H,2014-15,Home,Win,Pre-COVID
+E0,2015-02-22,Southampton,Liverpool,0,2,A,2014-15,Away,Win,Pre-COVID
+E0,2015-03-16,Swansea,Liverpool,0,1,A,2014-15,Away,Win,Pre-COVID
+E0,2015-03-22,Liverpool,Man United,1,2,A,2014-15,Home,Loss,Pre-COVID
+E0,2015-04-13,Liverpool,Newcastle,2,0,H,2014-15,Home,Win,Pre-COVID
+E0,2015-04-25,West Brom,Liverpool,0,0,D,2014-15,Away,Draw,Pre-COVID
+E0,2015-04-28,Hull,Liverpool,1,0,H,2014-15,Away,Loss,Pre-COVID
+E0,2015-05-16,Liverpool,Crystal Palace,1,3,A,2014-15,Home,Loss,Pre-COVID
+E0,2015-05-24,Stoke,Liverpool,6,1,H,2014-15,Away,Loss,Pre-COVID
+E0,2015-08-17,Liverpool,Bournemouth,1,0,H,2015-16,Home,Win,Pre-COVID
+E0,2015-08-24,Arsenal,Liverpool,0,0,D,2015-16,Away,Draw,Pre-COVID
+E0,2015-08-29,Liverpool,West Ham,0,3,A,2015-16,Home,Loss,Pre-COVID
+E0,2015-09-20,Liverpool,Norwich,1,1,D,2015-16,Home,Draw,Pre-COVID
+E0,2015-09-26,Liverpool,Aston Villa,3,2,H,2015-16,Home,Win,Pre-COVID
+E0,2015-10-17,Tottenham,Liverpool,0,0,D,2015-16,Away,Draw,Pre-COVID
+E0,2015-10-25,Liverpool,Southampton,1,1,D,2015-16,Home,Draw,Pre-COVID
+E0,2015-10-31,Chelsea,Liverpool,1,3,A,2015-16,Away,Win,Pre-COVID
+E0,2015-11-21,Man City,Liverpool,1,4,A,2015-16,Away,Win,Pre-COVID
+E0,2015-11-29,Liverpool,Swansea,1,0,H,2015-16,Home,Win,Pre-COVID
+E0,2015-12-13,Liverpool,West Brom,2,2,D,2015-16,Home,Draw,Pre-COVID
+E0,2015-12-20,Watford,Liverpool,3,0,H,2015-16,Away,Loss,Pre-COVID
+E0,2015-12-26,Liverpool,Leicester,1,0,H,2015-16,Home,Win,Pre-COVID
+E0,2015-12-30,Sunderland,Liverpool,0,1,A,2015-16,Away,Win,Pre-COVID
+E0,2016-01-13,Liverpool,Arsenal,3,3,D,2015-16,Home,Draw,Pre-COVID
+E0,2016-01-17,Liverpool,Man United,0,1,A,2015-16,Home,Loss,Pre-COVID
+E0,2016-01-23,Norwich,Liverpool,4,5,A,2015-16,Away,Win,Pre-COVID
+E0,2016-02-14,Aston Villa,Liverpool,0,6,A,2015-16,Away,Win,Pre-COVID
+E0,2016-03-20,Southampton,Liverpool,3,2,H,2015-16,Away,Loss,Pre-COVID
+E0,2016-04-17,Bournemouth,Liverpool,1,2,A,2015-16,Away,Win,Pre-COVID
+E0,2016-04-20,Liverpool,Everton,4,0,H,2015-16,Home,Win,Pre-COVID
+E0,2016-04-23,Liverpool,Newcastle,2,2,D,2015-16,Home,Draw,Pre-COVID
+E0,2016-05-15,West Brom,Liverpool,1,1,D,2015-16,Away,Draw,Pre-COVID
+E0,2016-08-14,Arsenal,Liverpool,3,4,A,2016-17,Away,Win,Pre-COVID
+E0,2016-08-20,Burnley,Liverpool,2,0,H,2016-17,Away,Loss,Pre-COVID
+E0,2016-08-27,Tottenham,Liverpool,1,1,D,2016-17,Away,Draw,Pre-COVID
+E0,2016-09-16,Chelsea,Liverpool,1,2,A,2016-17,Away,Win,Pre-COVID
+E0,2016-09-24,Liverpool,Hull,5,1,H,2016-17,Home,Win,Pre-COVID
+E0,2016-10-17,Liverpool,Man United,0,0,D,2016-17,Home,Draw,Pre-COVID
+E0,2016-10-22,Liverpool,West Brom,2,1,H,2016-17,Home,Win,Pre-COVID
+E0,2016-10-29,Crystal Palace,Liverpool,2,4,A,2016-17,Away,Win,Pre-COVID
+E0,2016-11-19,Southampton,Liverpool,0,0,D,2016-17,Away,Draw,Pre-COVID
+E0,2016-11-26,Liverpool,Sunderland,2,0,H,2016-17,Home,Win,Pre-COVID
+E0,2016-12-14,Middlesbrough,Liverpool,0,3,A,2016-17,Away,Win,Pre-COVID
+E0,2016-12-19,Everton,Liverpool,0,1,A,2016-17,Away,Win,Pre-COVID
+E0,2016-12-27,Liverpool,Stoke,4,1,H,2016-17,Home,Win,Pre-COVID
+E0,2016-12-31,Liverpool,Man City,1,0,H,2016-17,Home,Win,Pre-COVID
+E0,2017-01-15,Man United,Liverpool,1,1,D,2016-17,Away,Draw,Pre-COVID
+E0,2017-01-21,Liverpool,Swansea,2,3,A,2016-17,Home,Loss,Pre-COVID
+E0,2017-01-31,Liverpool,Chelsea,1,1,D,2016-17,Home,Draw,Pre-COVID
+E0,2017-02-27,Leicester,Liverpool,3,1,H,2016-17,Away,Loss,Pre-COVID
+E0,2017-03-19,Man City,Liverpool,1,1,D,2016-17,Away,Draw,Pre-COVID
+E0,2017-04-16,West Brom,Liverpool,0,1,A,2016-17,Away,Win,Pre-COVID
+E0,2017-04-23,Liverpool,Crystal Palace,1,2,A,2016-17,Home,Loss,Pre-COVID
+E0,2017-05-14,West Ham,Liverpool,0,4,A,2016-17,Away,Win,Pre-COVID
+E0,2017-05-21,Liverpool,Middlesbrough,3,0,H,2016-17,Home,Win,Pre-COVID
+E0,2017-08-19,Liverpool,Crystal Palace,1,0,H,2017-18,Home,Win,Pre-COVID
+E0,2017-08-27,Liverpool,Arsenal,4,0,H,2017-18,Home,Win,Pre-COVID
+E0,2017-09-16,Liverpool,Burnley,1,1,D,2017-18,Home,Draw,Pre-COVID
+E0,2017-09-23,Leicester,Liverpool,2,3,A,2017-18,Away,Win,Pre-COVID
+E0,2017-10-14,Liverpool,Man United,0,0,D,2017-18,Home,Draw,Pre-COVID
+E0,2017-10-22,Tottenham,Liverpool,4,1,H,2017-18,Away,Loss,Pre-COVID
+E0,2017-10-28,Liverpool,Huddersfield,3,0,H,2017-18,Home,Win,Pre-COVID
+E0,2017-11-18,Liverpool,Southampton,3,0,H,2017-18,Home,Win,Pre-COVID
+E0,2017-11-25,Liverpool,Chelsea,1,1,D,2017-18,Home,Draw,Pre-COVID
+E0,2017-11-29,Stoke,Liverpool,0,3,A,2017-18,Away,Win,Pre-COVID
+E0,2017-12-13,Liverpool,West Brom,0,0,D,2017-18,Home,Draw,Pre-COVID
+E0,2017-12-17,Bournemouth,Liverpool,0,4,A,2017-18,Away,Win,Pre-COVID
+E0,2017-12-22,Arsenal,Liverpool,3,3,D,2017-18,Away,Draw,Pre-COVID
+E0,2017-12-26,Liverpool,Swansea,5,0,H,2017-18,Home,Win,Pre-COVID
+E0,2017-12-30,Liverpool,Leicester,2,1,H,2017-18,Home,Win,Pre-COVID
+E0,2018-01-14,Liverpool,Man City,4,3,H,2017-18,Home,Win,Pre-COVID
+E0,2018-01-22,Swansea,Liverpool,1,0,H,2017-18,Away,Loss,Pre-COVID
+E0,2018-01-30,Huddersfield,Liverpool,0,3,A,2017-18,Away,Win,Pre-COVID
+E0,2018-02-24,Liverpool,West Ham,4,1,H,2017-18,Home,Win,Pre-COVID
+E0,2018-03-17,Liverpool,Watford,5,0,H,2017-18,Home,Win,Pre-COVID
+E0,2018-03-31,Crystal Palace,Liverpool,1,2,A,2017-18,Away,Win,Pre-COVID
+E0,2018-04-14,Liverpool,Bournemouth,3,0,H,2017-18,Home,Win,Pre-COVID
+E0,2018-04-21,West Brom,Liverpool,2,2,D,2017-18,Away,Draw,Pre-COVID
+E0,2018-04-28,Liverpool,Stoke,0,0,D,2017-18,Home,Draw,Pre-COVID
+E0,2018-05-13,Liverpool,Brighton,4,0,H,2017-18,Home,Win,Pre-COVID
